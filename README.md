@@ -1,5 +1,5 @@
 # Continuous Control with DDPG
----
+
 ## Introduction
 Implementation of DDPG algorithms to solve the contiunous action space of Unity Reacher Environment :rocket:.
 Random Agent            |  Trained Agent
