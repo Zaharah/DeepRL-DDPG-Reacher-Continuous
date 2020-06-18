@@ -4,7 +4,7 @@
 Implementation of DDPG algorithms to solve the contiunous action space of Unity Reacher Environment :rocket:.
 Random Agent            |  Trained Agent
 :----------------------:|:-------------------------:
-![](https://github.com/Zaharah/DeepRL-DDPG-Reacher-Continuous/blob/master/real-p2.gif)  |  ![](https://github.com/Zaharah/DeepRL-DDPG-Reacher-Continuous/blob/master/real-p2.gif)
+![](https://github.com/Zaharah/DeepRL-DDPG-Reacher-Continuous/blob/master/real-p2.gif)  |  ![](https://github.com/Zaharah/DeepRL-DDPG-Reacher-Continuous/blob/master/trained-p2.gif)
 
  - *Agent*: A double-jointed arm that can move to targer location. 
  - *Environment*: In the Reacher environment (:earth_asia:), the target location is a moving ball rotating around the agent. 
