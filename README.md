@@ -25,6 +25,6 @@ Random Agent            |  Trained Agent
  
 ## Instructions
 
- 1. To explore the code, open Python Notebook 'Continuous_control_Project_SA.ipynb'.
+ 1. To explore the code, open Python Notebook `Continuous_control_Project_SA.ipynb`.
  2. Load the trained weights of Actor and Critic network to see the agent in action.  
 
